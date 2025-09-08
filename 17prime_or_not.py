@@ -8,3 +8,5 @@ if n > 1:
         print("Prime number")
 else:
     print("Not prime")
+
+print("Program is executed by Nitish 0231BCA017")
